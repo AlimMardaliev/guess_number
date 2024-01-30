@@ -14,5 +14,3 @@ while True:
     elif robot_num < player_num:
         print('Ваше число больше того, что загадано')
         print('Попробуйте снова')
-        print('da')
-        
