@@ -13,4 +13,4 @@ while True:
         print('Попробуйте снова')
     elif robot_num < player_num:
         print('Ваше число больше того, что загадано')
-        print('Попробуйте сноваfsd')
+        print('Попробуйте снова')
